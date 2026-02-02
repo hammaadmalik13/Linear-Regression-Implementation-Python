@@ -53,7 +53,7 @@ Intercept (c): 2.2
 ## 📈 Visualization
 Scatter Plot: Actual data points
 Line Plot: Regression line predicted by the model
-<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/30c1912f-bfa1-4cf1-a0dd-dd1272b61518" />
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/54ecadec-d4af-4f5d-bb9e-f57c45a21bc8" />
 
 
 ## 🧩 Technologies Used
